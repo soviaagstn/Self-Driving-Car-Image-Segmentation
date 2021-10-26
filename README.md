@@ -12,7 +12,7 @@ I chose the UNet architecture because based on the existing literature on UNet, 
 **-- About the Dataset --**
 
 The dataset used for training and testing is using a dataset that has been previously normalized. Thus, the dataset is not preprocessed too deeply, because it has been normalized and ready to be used.
-I've also listed the datasets used in the 'Datasets' folder. There are 2 types of data in the dataset: image data, and image results that have been segmented as actual data.
+I've also listed the datasets used in the 'Dataset Files' folder in the form of Google Drive link. There are 2 types of data in the dataset: image data, and image results that have been segmented as actual data.
 
 **-- About the Whole Code--**
 
